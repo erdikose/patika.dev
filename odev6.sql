@@ -3,7 +3,7 @@
 -- Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 -- 1. film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
-SELECT AVG(rental_rate) FROM film;
+SELECT ROUND(AVG(rental_rate),2) FROM film;
 -- 2.98
 
 
