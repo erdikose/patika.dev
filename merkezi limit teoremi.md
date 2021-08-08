@@ -1,6 +1,5 @@
-### Merkezi Limit Teoremi (Central Limit Theorem, CLT)
+## Merkezi Limit Teoremi (Central Limit Theorem, CLT)
 
----
 CLT'nin bilimsel olmayan tanımını şu şekilde yapabiliriz:
 Dağılımı ne olursa olsun varyansı sonlu bir popülasyondan örneklem seçimi tamamen rassal olacak şekilde ve **yeterince büyük** seçilen örneklemlerin ortalamasının dağılımı normal 
 dağılıma yakınsar.
